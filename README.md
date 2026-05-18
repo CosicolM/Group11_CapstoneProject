@@ -1,6 +1,6 @@
 # Group11_CapstoneProject
 
-[FINAL-COMPUTATIONAL-SCIENCE-PROJECT-RUBRIC.pdf…]()
+[FINAL-COMPUTATIONAL-SCIENCE-PROJECT-RUBRIC.pdf](https://github.com/user-attachments/files/27957286/FINAL-COMPUTATIONAL-SCIENCE-PROJECT-RUBRIC.pdf)
+[Capstone.pdf](https://github.com/user-attachments/files/27957292/Capstone.pdf)
 
-[Capstone.pdf…]()
   
