@@ -1,4 +1,5 @@
 # Group11_CapstoneProject
 
-[Uploading FINAL-COMPUTATIONAL-SCIENCE-PROJECT-RUBRIC.pdf…]()
-[Uploading Capstone.pdf…]()
+[FINAL-COMPUTATIONAL-SCIENCE-PROJECT-RUBRIC.pdf…]()
+[Capstone.pdf…]()
+ 
